@@ -27,7 +27,7 @@
     --members-width: 240px;
     --background-shading: 100%;
     --background-overlay: rgba(0, 0, 0, 0.103);
-    --background-image: url(https://clearvision.github.io/images/sapphire.jpg);
+    --background-image: url(https://github.com/Elfish-beaker/UserCount/blob/main/cyberpunk_rain.gif?raw=true);
     --background-position: center;
     --background-size: cover;
     --background-repeat: no-repeat;
@@ -551,14 +551,14 @@ textarea,
 }
 
 .typeWindows__421ed>.wordmark__421ed:before {
-    content: "ClearVision";
+    content: "Elf Script";
     color: hsla(0, 0%, 100%, .7);
     font-size: 14px;
     text-shadow: 0 0 3px #000
 }
 
 .typeWindows__421ed>.wordmark__421ed:after {
-    content: "v6.9.0";
+    content: "v1.0.0";
     color: hsla(0, 0%, 100%, .3);
     font-family: var(--code-font);
     font-size: 10px
